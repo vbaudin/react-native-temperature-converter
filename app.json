@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e36e5508-1b93-4662-9384-0b1f0c454331"
+      }
+    },
+    "owner": "wootzy"
   }
 }
